@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Give github a try. What's the worst that could happen?
 Use the left arrow to go back!
